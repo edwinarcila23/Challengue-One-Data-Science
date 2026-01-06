@@ -33,7 +33,6 @@ Alura_Store/
 ├── tienda_2.csv         # Datos de ventas de la Tienda 2
 ├── tienda_3.csv         # Datos de ventas de la Tienda 3
 ├── tienda_4.csv         # Datos de ventas de la Tienda 4
-├── requirements.txt     # Dependencias del proyecto
 └── README.md            # Este archivo
 ```
 
@@ -55,3 +54,4 @@ Alura_Store/
 
 ## 📈 Datos
 Los datos provienen de cuatro archivos CSV con información de ventas, incluyendo producto, categoría, precio, costo de envío, fecha, vendedor, ubicación, calificación, método de pago, etc.
+
