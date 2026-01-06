@@ -55,12 +55,3 @@ Alura_Store/
 
 ## 📈 Datos
 Los datos provienen de cuatro archivos CSV con información de ventas, incluyendo producto, categoría, precio, costo de envío, fecha, vendedor, ubicación, calificación, método de pago, etc.
-
-## 🤝 Contribuciones
-Si quieres contribuir, abre un issue o pull request en GitHub.
-
-## 📄 Licencia
-Este proyecto es para fines educativos. Los datos son ficticios.
-
-## 👤 Autor
-- Edwin (o tu nombre) - Análisis realizado como parte del desafío Alura Store.
